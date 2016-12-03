@@ -1,7 +1,6 @@
 /*!
- * Start Bootstrap - Freelancer v3.3.7+1 (http://startbootstrap.com/template-overviews/freelancer)
- * Copyright 2013-2016 Start Bootstrap
- * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
+ * Mustafa Qureshi - Mustafa Qureshi v3.3.7+1 (http://mustafaqureshi.com)
+ * Copyright 2013-2016 Mustafa Qureshi
  */
 body {
   font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
@@ -112,6 +111,14 @@ header .intro-text .skills {
   header .intro-text .skills {
     font-size: 1.75em;
   }
+}
+.skills a {
+  color: #c1eb21;
+}
+.githubButton {
+  background-color: #22A39F;
+  border-color: #1c8784;
+  color: white;
 }
 .navbar-custom {
   background: #2C3E50;

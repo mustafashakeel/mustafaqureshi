@@ -1,13 +1,9 @@
 {
-  "name": "freelancer",
-  "title": "Freelancer",
+  "name": "mustafashakeel",
+  "title": "Mustafa Qureshi",
   "version": "3.3.7+1",
-  "homepage": "http://startbootstrap.com/template-overviews/freelancer",
-  "author": "Start Bootstrap",
-  "license": {
-    "type": "MIT",
-    "url": "https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE"
-  },
+  "homepage": "http://mustafaqureshi.com",
+  "author": "Mustafa Qureshi",
   "devDependencies": {
     "bootstrap": "^3.3.7",
     "browser-sync": "^2.13.0",
@@ -24,6 +20,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/BlackrockDigital/startbootstrap-freelancer.git"
+    "url": "https://github.com/mustafashakeel/mustafaqureshi.git"
   }
 }
